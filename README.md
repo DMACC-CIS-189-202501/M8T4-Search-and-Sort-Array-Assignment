@@ -1,4 +1,4 @@
-# Assignment-Starter-Repo-Template
+# M8 T4: Search and Sort Array Assignment
 
 TODO: Update the above to your repo name
 
@@ -9,4 +9,10 @@ TODO: Update the above to your repo name
 
 ### Directions - Copy/Pasted from Canvas
 
-TODO
+* Write 2 functions sort_array() and search_array().
+* search_array()
+  * Returns the index of the object in the array or a -1 if the item is not found.
+* sort_array()
+  * This will sort the array
+  * can this just sort it?
+  * or does it need to return the object?
